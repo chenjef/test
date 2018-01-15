@@ -1,0 +1,8 @@
+GitHub 
+Python
+Django
+JavaScript
+jQuery
+AJAX
+mysql
+linux
